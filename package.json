@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.8.7",
     "mongoose-beautiful-unique-validation": "^7.1.1",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {}
 }
